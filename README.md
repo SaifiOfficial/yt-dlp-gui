@@ -30,8 +30,5 @@ pip install pyinstaller
 # Run directly
 python main.py
 
-# Build portable executable
-pyinstaller build.spec
 ```
 
-The output will be in `dist/yt-dlp-gui/`.

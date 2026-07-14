@@ -1,0 +1,12 @@
+{
+  "output_dir": "",
+  "max_parallel": 3,
+  "dark_theme": true,
+  "proxy": "",
+  "cookies_file": "",
+  "embed_thumbnail": false,
+  "embed_metadata": false,
+  "write_subs": false,
+  "convert_mp3": false,
+  "custom_args": ""
+}

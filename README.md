@@ -21,7 +21,7 @@ Portable Qt-based GUI application for yt-dlp.
 4. Click **Download Selected**
 5. Monitor progress in the Queue tab
 
-## Build from source Windows
+## On Windows
 
 ```bash
 # 1. Create the virtual environment

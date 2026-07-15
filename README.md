@@ -7,7 +7,6 @@ Portable Qt-based GUI application for yt-dlp.
 
 ## Screenshots
 
-[Browse the screenshot gallery](https://github.com/SaifiOfficial/yt-dlp-gui/tree/main/Screenshot)
 
 ### Built-in browser
 

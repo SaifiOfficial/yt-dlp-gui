@@ -2,6 +2,29 @@
 
 Portable Qt-based GUI application for yt-dlp.
 
+- Bundled ffmpeg and deno integration in portable builds
+- Dark theme
+
+## Screenshots
+
+[Browse the screenshot gallery](https://github.com/SaifiOfficial/yt-dlp-gui/tree/main/Screenshot)
+
+### Built-in browser
+
+![Built-in browser](Screenshot/Screenshot%202026-07-14%20180105.png)
+
+### Format selection
+
+![Video format selection](Screenshot/Screenshot%202026-07-14%20180124.png)
+
+### Download queue
+
+![Download queue and progress](Screenshot/Screenshot%202026-07-14%20180144.png)
+
+## Usage
+
+1. Paste a video/playlist URL and click **Fetch Info**
+
 ## Features
 
 - URL input with automatic metadata fetching

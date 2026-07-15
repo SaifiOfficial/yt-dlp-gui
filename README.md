@@ -33,7 +33,10 @@ python -m venv .venv
 # 3. Install the requirements
 pip install -r requirements.txt
 
-# 4. run direct
+# 4. Run the application
+python main.py
+
+# Direct command
 .venv\Scripts\python main.py
 
 
@@ -49,4 +52,10 @@ source .venv/bin/activate
 
 # 3. Install the requirements
 pip install -r requirements.txt
+
+# 4. Run the application
+python3 main.py
+
+# Direct command
+.venv/bin/python main.py
 

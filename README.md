@@ -21,9 +21,6 @@ Portable Qt-based GUI application for yt-dlp.
 
 ![Download queue and progress](Screenshot/Screenshot%202026-07-14%20180144.png)
 
-## Usage
-
-1. Paste a video/playlist URL and click **Fetch Info**
 
 ## Features
 

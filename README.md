@@ -21,14 +21,29 @@ Portable Qt-based GUI application for yt-dlp.
 4. Click **Download Selected**
 5. Monitor progress in the Queue tab
 
-## Build from source
+## Build from source Windows
 
 ```bash
-pip install -r requirements.txt
-pip install pyinstaller
+# 1. Create the virtual environment
+python -m venv .venv
 
-# Run directly
-.venv\Scripts\python main.py
+# 2. Activate it
+.venv\Scripts\activate
+
+# 3. Install the requirements
+pip install -r requirements.txt
+
 
 ```
+## Build On macOS / Linux:
+
+```bash
+# 1. Create the virtual environment
+python3 -m venv .venv
+
+# 2. Activate it
+source .venv/bin/activate
+
+# 3. Install the requirements
+pip install -r requirements.txt
 

@@ -28,7 +28,7 @@ pip install -r requirements.txt
 pip install pyinstaller
 
 # Run directly
-python main.py
+.venv\Scripts\python main.py
 
 ```
 
